@@ -1,8 +1,7 @@
 # Hi, I am Masego Monggae
 
-Software Engineer
+Software Engineer,
 Aspiring Data Security Engineer
-I volunteer at Google Developer Groups and CyberM8
 
 
 # 💻 Tech Stack:
