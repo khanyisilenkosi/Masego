@@ -1,8 +1,8 @@
 # Hi, I am Masego Monggae
 
-Software Engineeering student at WeThinkCode
-Aspiring Data Scientist
-I volunteer at Google Developer Groups Soweto
+Software Engineer
+Aspiring Data Security Engineer
+I volunteer at Google Developer Groups and CyberM8
 
 
 # 💻 Tech Stack:
